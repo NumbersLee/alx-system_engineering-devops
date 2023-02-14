@@ -1,0 +1,24 @@
+.:
+total 40
+drwxr-xr-x 2 root root 219 Feb 13 18:39 .
+drwxr-xr-x 6 root root 104 Feb 13 11:36 ..
+-rwxr--r-- 1 root root  30 Feb 13 12:44 0-hello_world
+-rwxr--r-- 1 root root  26 Feb 13 12:49 1-confused_smiley
+-rwxr--r-- 1 root root  30 Feb 13 13:10 2-hellofile
+-rwxr--r-- 1 root root  40 Feb 13 13:09 3-twofiles
+-rwxr--r-- 1 root root  29 Feb 13 13:17 4-lastlines
+-rwxr--r-- 1 root root  29 Feb 13 13:20 5-firstlines
+-rwxr--r-- 1 root root  26 Feb 13 18:29 6-thirdline
+-rwxr--r-- 1 root root  83 Feb 13 18:31 7-file
+-rwxr--r-- 1 root root  41 Feb 13 18:39 8-cwd_state
+-rw-r--r-- 1 root root   0 Feb 13 18:39 ls_cwd_content
+-rw-r--r-- 1 root root 138 Feb 13 11:39 README.md
+
+..:
+total 4
+drwxr-xr-x 6 root root  104 Feb 13 11:36 .
+drwxr-xr-x 1 root root  130 Feb  9 17:47 ..
+drwxr-xr-x 2 root root 4096 Feb 12 22:11 0x00-shell_basics
+drwxr-xr-x 2 root root   25 Feb 12 20:01 0x01-shell_permissions
+drwxr-xr-x 2 root root  219 Feb 13 18:39 0x02-shell_redirections
+drwxr-xr-x 8 root root  166 Feb 13 13:25 .git
