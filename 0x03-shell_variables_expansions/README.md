@@ -1,1 +1,1 @@
-these files are testing the knowledge of shell variables and expansions
+The projects test my knowledge of shell variables and  expansions
